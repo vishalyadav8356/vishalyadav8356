@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Vishal Yadav, a first-year BCA student at KES Shroff College, Mumbai. I’m passionate about learning and building things with code. Currently, I’m exploring frontend development, improving my skills in HTML, CSS, Bootstrap, and diving deeper into C++ programming.<br><br>🧑‍💻  learning: C++  Language, DSA , Git, and Responsive Web Design<br><br>🌐 Interested in: Web Development, and Open Source<br><br>🎯 Goal: To become a full-stack developer and contribute to real-world projects<br><br>📚 Fun fact: I enjoy simplifying complex topics and helping others learn<br><br>📫 How to reach me: [vishalyadav4052@gmail.com] | [https://github.com/vishalyadav8356]
+Hi! I'm Vishal Yadav, a second-year BCA student at KES Shroff College, Mumbai. I’m passionate about learning and building things with code. Currently, I’m exploring frontend development, improving my skills in HTML, CSS, Bootstrap, and diving deeper into C++ programming.<br><br>🧑‍💻  learning: C++  Language, DSA , Git, and Responsive Web Design<br><br>🌐 Interested in: Web Development, and Open Source<br><br>🎯 Goal: To become a full-stack developer and contribute to real-world projects<br><br>📚 Fun fact: I enjoy simplifying complex topics and helping others learn<br><br>📫 How to reach me: [vishalyadav4052@gmail.com] | [https://github.com/vishalyadav8356]
 
 
 ## 🌐 Socials:
